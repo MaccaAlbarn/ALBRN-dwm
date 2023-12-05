@@ -29,9 +29,10 @@
 
 # Keybindings
 
-Super + Shift + Enter = Launch kitty (edit the ´config.def.h´ file to use your favorite terminal)
-Super + Shift + D = Launch Dmenu (you'll need my build of dmenu or use yours, again, edit the ´config.def.h´ file to your liking)
-Super + Shift + C = Exit dwm
-Super + Shift + Q = Close a window
+- Super + Shift + Enter = Launch kitty (edit the `config.def.h` file to use your favorite terminal)
+
+- Super + Shift + D = Launch Dmenu (you'll need my build of dmenu or use yours, again, edit the `config.def.h` file to your liking)
+- Super + Shift + C = Exit dwm
+- Super + Shift + Q = Close a window
 
 # Screenshots
