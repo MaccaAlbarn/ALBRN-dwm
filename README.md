@@ -36,3 +36,5 @@
 - Super + Shift + Q = Close a window
 
 # Screenshots
+![Screenshot 1](Screen1.png)
+![Screenshot 2](screen3.png)
