@@ -4,7 +4,6 @@
 
 ![patches](patches.png)
 
-- Swallow
 - No Title
 - Hide Vacant Tags
 - Cool Autostart
@@ -24,13 +23,11 @@
 5. Restart your wm/de
 6. Enjoy!
 
-(in the folder is included a little redshift script, if you want to use it, make a folder called `dwm_scripts` in your $HOME directory and move/copy the script there)
-(note, install pywal)
+(I highly suggest you install pywal 👍)
 
 # Keybindings
 
 - Super + Shift + Enter = Launch kitty (edit the `config.def.h` file to use your favorite terminal)
-
 - Super + Shift + D = Launch Dmenu (you'll need my build of dmenu or use yours, again, edit the `config.def.h` file to your liking)
 - Super + Shift + C = Exit dwm
 - Super + Shift + Q = Close a window
